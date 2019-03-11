@@ -27,7 +27,7 @@
 		<div class="container-login100">
 			<div class="wrap-login100">
 				<div class="login100-pic js-tilt" data-tilt>
-					<img src="https://scontent.fkno3-1.fna.fbcdn.net/v/t1.0-9/34885638_1272031749598929_6555209606639910912_n.jpg?_nc_cat=108&_nc_ht=scontent.fkno3-1.fna&oh=a5c169d9e3a7054e5ec64742f84eb110&oe=5D1C5B2C" alt="IMG">
+					<img src="img-01.png" alt="IMG">
 				</div>
 				<form class="login100-form validate-form"action="index.php"method="post">
 					<span class="login100-form-title">
